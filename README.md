@@ -7,8 +7,9 @@ Portus Opensource Authorization Service and User Interface for the next generati
 
 Deugging out API https://stackify.com/ 
 
+kubecon 18
 
-
+https://kccna18.sched.com/
 
 
 
